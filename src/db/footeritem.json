@@ -1,0 +1,124 @@
+{
+    "start":[
+        {   "item":"자주 묻는 질문",
+            "href":"https://help.netflix.com/ko/node/412",
+            "id":"login"
+        },
+        {
+            "item":"고객 센터",
+            "href":"https://help.netflix.com/ko/",
+            "id":"login"
+        },
+        {
+            "item":"계정",
+            "href":"https://www.netflix.com/kr/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fyouraccount"
+        },
+        {
+            "item":"미디어 센터",
+            "href":"https://media.netflix.com/ko/"
+        },
+        {
+            "item":"투자 정보(IR)",
+            "href":"https://ir.netflix.net/ir-overview/profile/default.aspx"
+        },
+        {
+            "item":"입사정보",
+            "href":"https://jobs.netflix.com/"
+        },
+        {
+            "item":"넷플릭스 지원 디바이스",
+            "href":"https://devices.netflix.com/ko/"
+        },
+        {
+            "item":"이용 약관",
+            "href":"https://help.netflix.com/legal/termsofuse",
+            "id":"login"
+        },
+        {
+            "item":"개인정보",
+            "href":"https://help.netflix.com/legal/privacy",
+            "id":"login"
+        },
+        {
+            "item":"쿠키 설정",
+            "href":"",
+            "id":"login"
+        },
+        {
+            "item":"회사 정보",
+            "href":"https://help.netflix.com/legal/corpinfo",
+            "id":"login"
+        },
+        {
+            "item":"문의하기",
+            "href":"https://help.netflix.com/ko/contactus"
+        },
+        {
+            "item":"속도테스트",
+            "href":"https://fast.com/ko/"
+        },
+        {
+            "item":"법적고지",
+            "href":"https://help.netflix.com/legal/notices"
+        },
+        {
+            "item":"오직 넷플릭스에서",
+            "href":"https://www.netflix.com/kr/browse/genre/839338"
+        }
+    ],
+    
+    "main":[
+        {
+            "item":"자막 및 음성",
+            "href":"https://help.netflix.com/ko/node/412"
+        },
+        {
+            "item":"화면해설",
+            "href":"https://help.netflix.com/ko/node/412"
+        },
+        {
+            "item":"고객 센터",
+            "href":"https://help.netflix.com/ko/"
+        },
+        {
+            "item":"키프트카드",
+            "href":"https://help.netflix.com/ko/node/412"
+        },
+        {
+            "item":"미디어 센터",
+            "href":"https://media.netflix.com/ko/"
+        },
+        {
+            "item":"투자 정보(IR)",
+            "href":"https://ir.netflix.net/ir-overview/profile/default.aspx"
+        },
+        {
+            "item":"입사정보",
+            "href":"https://jobs.netflix.com/"
+        },
+        {
+            "item":"이용 약관",
+            "href":"https://help.netflix.com/legal/termsofuse"
+        },
+        {
+            "item":"개인정보",
+            "href":"https://help.netflix.com/legal/privacy"
+        },
+        {
+            "item":"법적고지",
+            "href":"https://help.netflix.com/legal/notices"
+        },
+        {
+            "item":"쿠키 설정",
+            "href":""
+        },
+        {
+            "item":"회사 정보",
+            "href":"https://help.netflix.com/legal/corpinfo"
+        },
+        {
+            "item":"문의하기",
+            "href":"https://help.netflix.com/ko/node/412"
+        }
+    ]
+}

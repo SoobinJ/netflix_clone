@@ -1,0 +1,107 @@
+
+.header-container{
+    height: 70px;
+    top: 0;
+    position: relative;
+    background: transparent;
+    left: 0; right: 0;
+    z-index: 1;
+}
+.logo-header{
+    background-image: linear-gradient(180deg,rgba(0,0,0,.7) 10%,transparent);
+    height: 68px;
+    z-index: 2;
+    align-items: center;
+    display: flex;
+    position: relative;
+    padding: 0 60px;
+}
+.logo-header a{
+    display: inline-block;
+    margin-right: 25px;
+    cursor: pointer;
+    text-decoration: none;
+    vertical-align: middle;
+}
+.logo-header img{
+    height: 25px;
+}
+
+
+.profiles{
+    background: #141414;
+    bottom: 0; left: 0;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    top: 0;
+    z-index: 0;
+}
+.profile-container{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    left: 0; right: 0; top: 0; bottom: 0;
+    z-index: 10;
+}
+.UserList{
+    background: #141414;
+    max-width: 80%;
+}
+.UserList h1{
+    color: #fff;
+    font-size: 67.2px;
+    width: 100%;
+    font-weight: unset;
+}
+.choose{
+    margin: 2em 0;
+    padding: 0;
+}
+#profile{
+    list-style: none;
+    max-width: 200px;
+    min-width: 84px;
+    width: 10vw;
+    margin:0 2vw 0 0 ;
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+}
+#profile a{
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
+#profile-icon{
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 192px;
+    position: relative;
+    text-decoration: none;
+}
+#profile-name{
+    line-height: 1.5;
+    font-size: 24px;
+    color: grey;
+    display: block;
+    margin: 14.4px 0;
+    text-align: center;
+    
+}
+
+.profile-btn{
+    text-decoration: none;
+    border: 1px solid grey;
+    background-color: transparent;
+    color: grey;
+    display: block;
+    font-size: 1.2vw;
+    margin: 2em 0 1em;
+    padding: 0.5em 1.5em;
+}
